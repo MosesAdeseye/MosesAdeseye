@@ -1,0 +1,3 @@
+main background : #31cca554
+cont background: white
+text color: rgba(72, 172, 32, 0.918)
